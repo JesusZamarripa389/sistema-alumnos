@@ -1,4 +1,4 @@
-!\[Demostración de la Interfaz Gráfica](assets/captura-interfaz.png)
+!\[Demostración de la Interfaz Gráfica](assets/captura-interfaz.jpeg)
 
 
 
