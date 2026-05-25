@@ -1,8 +1,8 @@
+<img width="1114" height="566" alt="captura-interfaz" src="https://github.com/user-attachments/assets/f3487d66-3066-4605-8d6b-39af725d5161" />
 \# Sistema de Control de Alumnos (CRUD)
 
 
 
-!\[Demostración de la Interfaz Gráfica](assets/captura-interfaz.png)
 
 
 
